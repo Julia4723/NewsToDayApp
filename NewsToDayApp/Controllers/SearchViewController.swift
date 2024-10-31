@@ -60,6 +60,7 @@ final class SearchViewController: UIViewController {
         navigationBar.didMove(toParent: self)
     }
     
+    
     private func setConstraints() {
         NSLayoutConstraint.activate([
         
