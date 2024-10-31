@@ -218,5 +218,6 @@ final class ArticleViewController: UIViewController {
     
 }
 
+
 @available(iOS 18.0, *)
 #Preview { UINavigationController(rootViewController: ArticleViewController(article: .init(source: .init(id: "", name: ""), author: "World", title: "Hello", description: "adsd,/nfkelwnfjnbwejknfjkn dksalkfnaklsndfklnsadklnfkansaskf/n dklnsadklnfklds\n\nanlkfnklasdnf", url: "", urlToImage: "", publishedAt: "", content: "dsfsdfssfd ajknsjdfnklsndlf\nlsdflknl\nksddsfksdfak\nsdfsda\nfsdafasfsadfsaf\nsdfsdfasdfsadfsdfdwsf\nfsdfsafsadfdfdsn\n\n\\nasdak\n\nsdnaklf\n\n\n\n\n\nnkjdsnjkfnkjsanfjknsdjkbfjkbhwjqevfuyvwessdada\n\n\nsmfnmsakd mds f sm fm sdfs mf, dm fma ,m sdmf s ,f ,m\ns dfm sm df,\nm sdm fm sdm f,ms df sd, fm sdm, f")))}
